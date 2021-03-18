@@ -1,2 +1,17 @@
 # Survival-Data-Analysis-in-Epidemiology
  This includes the codes and final report of a project related with the survival analysis.
+
+Acute leukemia is a relatively rare form of cancer. There are two main types of acute leukemia, acute lymphocytic leukemia (ALL) and acute myelocytic leukemia (AML), which affect approximately 6,000 and 20,000 Americans each year, respectively. Both types are very deadly. ALL has a 68.8% 5-year relative survival rate. AML has a 28.7% 5-year relative survival rate. Bone marrow transplant is a common treatment for acute leukemia. However, recovery after transplantation depends on a variety of factors, including patient and donor demographics, disease stage, and the occurrence of acute graft-versus-host disease (aGVHD). The effects of these factors on survival following transplantation is not well understood.
+
+A multicenter study was conducted to identify factors that may predict patient survival following allogeneic marrow transplantation. Between March 1, 1984 and June 20, 1989, 137 patients were enrolled at four hospitals in Columbus, Ohio; Philadelphia, Pennsylvania; Melbourne, Australia; and Sydney, Australia. All patients in the study participated in a radiation-free conditioning regime of oral Busulfan and intravenous cyclophosphamide.
+
+We are primarily interested in understanding how baseline factors like patient and donor age, patient and donor sex, and French-American-British (FAB) classification impact relapse and survival. We are especially interested in understanding the roles of aGVHD, exploring characteristics of patients developing aGVHD, the effect of aGVHD on negative outcomes and the methotrexate use for aGVHD. We also focused on the effect of normal platelet functions on leukemia relapse and death. If we could understand the risk factors of relapse and death after transplantation better, we can prevent negative outcomes effectively by controlling these factors and paying attention to high-risk populations.
+
+Utilizing the available dataset, we have to address the following scientific questions as appropriately as possible, and describe your findings in a scientific report.
+1. What are the main characteristics of the estimated distribution of disease-free survival time in patients enrolled in this study?
+2. How do patients in different disease groups or in different FAB classifications compare to each other with respect to other available baseline measurements?
+3. Are any of the measured baseline factors associated with differences in disease-free survival?
+4. It is generally thought that aGVHD has an anti-leukemic effect. Based on the available data, is occurrence of aGVHD after transplantation associated with improved disease-free survival? Is it associated with a decreased risk of relapse? In view of this, do you consider aGVHD as an important prognostic event?
+5. Among the patients who develop aGVHD, are any of the measured baseline factors associated with differences in disease-free survival?
+6. Is prophylactic use of methotrexate associated with an increased or decreased risk of developing aGVHD? Provide an estimate of the survival function of time from transplant until onset of aGVHD separately for patients either administered methotrexate or not. In doing so, consider the importance of accounting for relevant confounding factors.
+7. Based on the available data, is recovery of normal platelet levels associated with improved disease-free survival? Is it associated with a decreased risk of relapse?
